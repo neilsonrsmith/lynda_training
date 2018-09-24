@@ -1,1 +1,6 @@
 If I make a change here does if push this file to the staging index?
+
+
+Now I am going to add another change just for fun
+
+It looks like since this one is staged, it is considering it the second file
