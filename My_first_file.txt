@@ -1,1 +1,3 @@
 This is a change added to my first file
+
+Now we are going to add some modifications so we can test how to view the changes.
